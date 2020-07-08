@@ -10,16 +10,12 @@ namespace EmailExtraction
         {
             String text = File.ReadAllText("sample.txt");
 
-            Regex rx = new Regex(@"@softwire\.com",
+            Regex rx = new Regex(@"@softwire\.com\s",
             RegexOptions.Compiled | RegexOptions.IgnoreCase);
 
             MatchCollection matches = rx.Matches(text);
 
             Console.WriteLine(matches.Count);
-
-
-
-
         }
     }
 }
