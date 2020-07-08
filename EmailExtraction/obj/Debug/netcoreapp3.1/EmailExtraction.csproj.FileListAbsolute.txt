@@ -1,0 +1,13 @@
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.csprojAssemblyReference.cache
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.AssemblyInfoInputs.cache
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.AssemblyInfo.cs
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.csproj.CoreCompileInputs.cache
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/bin/Debug/netcoreapp3.1/sample.txt
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/bin/Debug/netcoreapp3.1/EmailExtraction.deps.json
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/bin/Debug/netcoreapp3.1/EmailExtraction.runtimeconfig.json
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/bin/Debug/netcoreapp3.1/EmailExtraction.runtimeconfig.dev.json
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/bin/Debug/netcoreapp3.1/EmailExtraction.dll
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/bin/Debug/netcoreapp3.1/EmailExtraction.pdb
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.dll
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.pdb
+/Users/Harry.Gallianozoopla.co.uk/Zoopla/EmailExtraction/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.genruntimeconfig.cache

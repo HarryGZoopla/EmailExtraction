@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D3C1845F-FF91-4379-A2CF-0C327E0DAD89}|Default">
+  <MonoDevelop.Ide.ItemProperties.EmailExtraction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmailExtraction/Program.cs">
+    <Files>
+      <File FileName="EmailExtraction/Program.cs" Line="11" Column="46" />
+      <File FileName="EmailExtraction/sample.txt" Line="2001" Column="103" />
+      <File FileName="EmailExtraction/EmailExtraction.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="EmailExtraction" expanded="True">
+            <Node name="EmailExtraction" expanded="True">
+              <Node name="jydzjq4k.159~" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
